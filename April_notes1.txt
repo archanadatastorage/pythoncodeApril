@@ -90,6 +90,86 @@ functional programming:
 		lambda x,y:x+y
 			
 
+-----------------------------
+Day3
+
+
+Source    ->    ByteCode   -> PVM
+.py
+
+
+comments
+	#	: single line
+	''' 	multi-line 
+		'''
+
+loops
+
+
+- while
+
+
+- for 
+
+
+
+
+- break
+- continue
+
+Immutable datatype
+	- Number
+	- String
+	- Tuple
+	- bool
+Mutable datatypes
+	-List
+	- Dictionaries
+	- sets
+
+
+formating String
+
+slicing
+updation
+Replication
+Membership : in, not in
+reverse 
+
+Tuple 
+	- immutable
+	- complex datatype : sequence of value
+	- hetrogenous
+	- (v1,v2,v3,v4....)
+	- ordered
+	- index
+
+List 
+	- mutable
+	- complex  datatype : sequence of value
+	- hetrogenous : value
+	- ordered
+	- [v1,v2,v3,v4....]
+	- index
+
+Dictionaries
+	- mutable
+	- complex  datatype : sequence of value
+	- unordered
+	- custom index : key,value
+	- key: homogenous
+	- value : hetrogenous
+	- {k1:v2,k2:v3} 
+	
+Sets
+	- mutable
+	- complex  datatype : sequence of value
+	- unique
+	- unordered
+	- {v1,v2,v3...}
+	- union
+	- intersection
+	- minus
 
 
 
