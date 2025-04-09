@@ -1,0 +1,129 @@
+
+
+python
+
+
+scope
+ 	: body begin
+	tab 		: indent
+
+
+Datatype
+
+simple datatypes
+	- Numeric : int,float, complex, byte
+	- String : ' ', ""
+	- bool : True, False, None
+complex datatypes
+	- list
+	- set
+	- Dictinary
+	- tuple
+
+
++,-,*,/, //, **,%
+
+
+explicit casting
+
+is
+
+conditional op : <, >, <= ,>= , ==, !=
+or, and , not
+
+
+[index position]
+[start index : end index]
+[start index : end index: jump]
+
+-----
+if condition(s) :
+	True
+
+
+if condition(s):
+	True
+else:
+	false
+
+if condition(s) :
+	True
+elif condition(s):
+	true
+elif condition(s):
+	true
+else:
+	false
+
+
+------------
+
+match ... case
+
+
+
+---------------------
+
+Procedural Programing 
+
+ function / procedural
+
+def nameOfFunction([arguments]):
+	statements
+	return value
+
+
+functional programming:
+	* Pure object oriented
+	* data immutable
+	* First order value : function as object/value
+	* Higher order function : function that receives / return another function
+	* Pure function 
+
+		def add(x,y):
+			c=x+y
+			return c
+
+	* lambda exp : anoynemous function
+
+	
+		lambda x,y:x+y
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
