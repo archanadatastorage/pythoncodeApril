@@ -171,6 +171,50 @@ Sets
 	- intersection
 	- minus
 
+-------------------
+Day4
+
+List comprehension  : suger syntax
+
+y2 = []
+for i in years:
+    y2.append(i)
+
+
+
+y2 = [i for i in years]
+
+
+-new_list = [exp  for i in coll]
+
+-new_list = [exp for i in coll if condition(s)]
+
+-new_list = [exp for i in coll for j in coll2]
+
+
+-------------
+
+function_name ([arguments]
+
+- *argv		: Tuple
+- **kwarg	: Dictionary
+
+------
+scripting file
+- .py
+- executable
+
+- __main__
+
+module : 
+
+
+
+
+
+
+
+
 
 
 
