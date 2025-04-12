@@ -207,6 +207,36 @@ scripting file
 - __main__
 
 module : 
+-------------------
+Object oriented Programing
+
+
+- code real world thing/ entity : object
+class	: blueprint/definition		- Encapsulation
+instance of class/object : memory
+
+- attributes/instance varible
+- class varible
+- methods
+- class methods 
+- Constructor
+
+- access modifier
+
+- n objects	: concrete class
+- no object
+
+- Abstraction
+- Overloading
+- Inheritance : is a
+	* single inheritance  : 1 parent
+	* Multiple inheritance : multiple parents
+- Composition : has a 
+
+class
+
+pass
+
 
 
 
