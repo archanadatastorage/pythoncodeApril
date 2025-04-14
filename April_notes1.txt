@@ -237,6 +237,35 @@ class
 
 pass
 
+--------------------
+
+Day 6
+
+
+Regular method : to change the state of the object  : self
+class method : to change the state of the class varible
+static method : not associated with a particular object
+
+instance varibles
+class varible
+Static method
+
+Inheritance
+
+Parent class/ Super class
+
+child class/ Sub class
+
+Single inheritance
+
+Multiple Inheritance
+
+
+isinstance
+issubclass
+
+
+
 
 
 
