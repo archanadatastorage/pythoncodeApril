@@ -264,7 +264,17 @@ Multiple Inheritance
 isinstance
 issubclass
 
+-----------------
+Day 8
 
+Multiple classes in association:
+
+- Inheritance	: is A
+
+- Composition : has a
+
+
+Nested classed :  class within another class
 
 
 
