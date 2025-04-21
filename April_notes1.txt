@@ -401,6 +401,54 @@ Parent import
 
 
 
+-------------------
+
+Exception 
+
+Error
+	"India"
+Built-in Exception
+User defined Exception
+
+
+BaseException
+	- Exception
+		-AttributeError
+		-ArithmaticError
+			-ZeroDivisionError
+			-FloatPointError
+			-OverFlowError
+		- NameError
+		-lookupError
+			-IndexError
+			-KeyError
+		-TypeError
+		-OSError
+			-FileNotFoundError
+			-Permissionv
+			-TimeOutError
+		
+
+Exception Handling
+
+	try:
+		Suspect code
+	except:
+		handling code
+	else:
+		code to execute if no exception occured
+	finally:
+		always execute
+
+
+try -> except -> finally
+try -> else -> finally
+
+
+Builtin exceptions are not good enough
+
+* raise the explicitly : raise
+* user defined exception : class
 
 
 
