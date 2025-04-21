@@ -274,7 +274,141 @@ Multiple classes in association:
 - Composition : has a
 
 
+
 Nested classed :  class within another class
+
+------------------------
+
+Dunder /Magic
+
+__len__
+__str__
+__repr__
+__add__
+__del__
+
+
+closure
+decorator
+  - 1 decorator to decorate multiple functions
+  - 1 functions has multiple decorators
+
+class
+
+callable()
+__call__
+
+Getter/ setter/ deleter
+
+@property
+@functionasAttribute.setter
+@functionasAttribute.deleter
+Access Modifier
+
+- public
+- private   __
+
+dir(class)
+dir(obj)
+
+Name Mangling
+obj._className__PrivateVarible
+
+---------------------------
+
+Packages
+
+Modules - 
+import moduleName
+
+search path
+
+	- current dir
+	- PYTHONPATH
+	- standard Modules
+	- site-package/lib
+
+sys.path
+
+
+Package 
+	Folder/ directory
+		- modules
+
+- to organise related modules
+- subpackage : folder within a package
+- namespace of modules
+
+Structure  of a Package
+- modules
+- subpackages
+	subpackage
+	modules
+- __init__.py
+	
+
+
+__init__.py
+
+* first file get executed when package is imported
+* empty
+* varible/functions/classess
+* optional from 3.3
+* subpackage will have its own copy of __init__.py
+
+create package
+
+1. create directoty strcuture
+2. define modules
+3. import modules in our code
+
+
+
+MyProject
+	- main.py
+	- mypackage/
+		- __init__.py
+		- string_op.py
+		- sub_package1/
+			- __inti__.py
+			- maths_ops.py
+			- another_sub_package/
+				-__init__.py
+				- advanced_math.py
+				- statistic.py
+		-sub_package2/
+			- __init__.py
+			- utils.py
+			- helper.py
+		
+
+__file__ : path of the file
+
+string_op.py  => statistic.py
+
+
+
+current dir : dir where the module is
+root dir : starting point : MyProject
+parent dir : one dir above the current dir
+
+
+
+Relative import : import the modules that are present in current dir or subpackage
+
+
+Parent import 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
