@@ -451,7 +451,19 @@ Builtin exceptions are not good enough
 * user defined exception : class
 
 
+-----------------------
 
+
+Numpy 
+
+- Arrays implementation in python
+- Datastructure
+- collection of homegenous elements
+- continous memory allocation
+- pip install numpy 
+- various ops on the arrays
+- indexed
+-mutable
 
 
 
