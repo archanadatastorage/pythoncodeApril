@@ -465,6 +465,47 @@ Numpy
 - indexed
 -mutable
 
+Pandas
+
+- data prepration
+- data anlysis
+- data structure
+- Series
+- Dataframe
+- fast
+- easy
+
+
+Pandas Series
+
+- 1D data structure
+- index
+- Hetrogenous data
+- mutable
+
+Pandas dataFrame
+
+- N-D data strcuture
+- hetrogenous
+- mutable
+- index : rows
+- label : columns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
