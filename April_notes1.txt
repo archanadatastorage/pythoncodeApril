@@ -492,6 +492,82 @@ Pandas dataFrame
 - label : columns
 
 
+--------------------
+Databases
+
+sqlite3
+execute("Insert......")
+
+SQlAlchemy
+
+
+- python sql lib
+- ORM : Object Relation Mapper
+
+	DataBase			Python
+	
+	Table				class
+	columns				attributes
+	row				objects
+	Consistency			Relationship
+- flexible
+- no SQL queries/ raw sql
+	where(), order_by(),group_by()
+- Database abstraction
+- Transaction Management ... maintain consistency
+
+conda prompt
+
+pip install sqlalchemy
+
+
+database
+	server uri		localhost
+	port			3306
+	username		root
+	password
+	database		hr_db
++
+
+database connector		Mysql
+
+pip install mysql-connector
+
+help('modules')
+
++
+
+Python
+
+
+Create Model
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
