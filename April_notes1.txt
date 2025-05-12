@@ -542,7 +542,81 @@ Python
 
 Create Model
 
+parent-child
 
+- Table
+- Parent : Primary key
+- child : foreign key
+
+Bidirectional relation btw 2 table
+relationship(back_populates)
+
+Authers
+
+Books
+
+
+-----------------------
+
+
+Django
+
+
+
+Flask
+
+- web framework
+- lightweight
+- microframework
+- own authentication
+- Jinja2 : templating
+-Werkzeug : web server lib : to maintain response/request 
+- Routing: simple
+- no ORM : flask + Sqlalchemy
+- RESTful
+- development Server
+
+
+pip install flask
+pip install flask_requests
+
+
+Template
+
+
+
+GET
+POST
+DELETE
+PUT
+
+POSTMAN
+
+- api dev tool
+- testing
+- lightweight
+- simple
+- flexible
+
+
+
+posts =[{'author':'John','title',:'Blog Post1','content':' My first post',
+'date_posted':'May 5,2025'},{'author':'Ram','title',:'Blog Post2','content':' Ram post',
+'date_posted':'April 5,2025'}]
+
+
+ flask + Sqlalchemy
+
+
+
+----------------------
+
+flask + error handling
+
+
+- Flask Debugger
+- custom error pages / custom error handling
+- logging 
 
 
 
